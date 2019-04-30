@@ -10,6 +10,8 @@ public class abDemoC extends AbDemoP {
 	public void display() {
 		// TODO Auto-generated method stub
 		System.out.println("abstract defined in child class");
+                System.out.println("abstract defined in child class");
+
 		
 	}
 		public static void main(String[] args) {
